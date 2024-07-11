@@ -10,4 +10,4 @@ Email: rodrigoa0987@gmail.com <br>
 Portfólio: <a href="skrodrigo.vercel.app">skrodrigo.vercel.app</a> <br>
 Instagram: <a href="https://www.instagram.com/skrodr1go/">skrodr1go</a> <br>
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,typescript,nodejs,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,nodejs,ts,prisma)](https://skillicons.dev)
