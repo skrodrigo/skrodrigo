@@ -7,8 +7,8 @@ Tenho buscado conhecimento e aprendizado com assiduidade para sempre entregar o 
 Se você tiver alguma dúvida em que eu possa lhe ajudar, sinta-se a vontade para entrar em contato comigo.
 
 Email: rodrigoa0987@gmail.com <br>
-Portfólio: <a href="skrodrigo.vercel.app">skrodrigo.vercel.app</a> <br> 
-Instagram: <a href="https://www.instagram.com/skrodr1go/">skrodr1go</a> <br>        
-Linkedin: <a href="https://www.linkedin.com/in/skrodrigo">skrodrigo</a> <br>        
+Portfólio: <a href="skrodrigo.vercel.app">skrodrigo.vercel.app</a><br> 
+Instagram: <a href="https://www.instagram.com/skrodr1go/">skrodr1go</a>        
+Linkedin: <a href="https://www.linkedin.com/in/skrodrigo">skrodrigo</a><br>        
 
 [![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,nodejs,ts,prisma)](https://skillicons.dev)
