@@ -11,4 +11,4 @@ Portfólio: <a href="https://skrodrigo.vercel.app">skrodrigo.vercel.app</a><br>
 Instagram: <a href="https://www.instagram.com/skrodr1go/">skrodr1go</a>        
 Linkedin: <a href="https://www.linkedin.com/in/skrodrigo">skrodrigo</a><br>        
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,nodejs,ts,prisma,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,nodejs,ts,prisma)](https://skillicons.dev)
