@@ -1,6 +1,9 @@
 # Rodrigo Carvalho
 
-Admirador de tecnologia e desenvolvimento de Software. Tenho 18 anos e sou estudante de Sistemas de Informação.
+Admirador de Tecnologia e Desenvolvimento de Software,
+18 anos,
+Graduando em Sistemas de Informação 4/8,
+Expertise em Next Js, Figma, Typescript, Tailwind CSS, NodeJs, Git.
 
 Email: rodrigoa0987@gmail.com <br>
 Portfólio: <a href="https://skrodrigo.vercel.app">skrodrigo.vercel.app</a><br> 
