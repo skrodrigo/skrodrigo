@@ -1,11 +1,9 @@
-# Rodrigo Carvalho
+👋 Olá, sou Rodrigo Carvalho,
 
-Admirador de Tecnologia e Desenvolvimento de Software, <br>
-18 anos, <br>
-Graduando em Sistemas de Informação 4/8, <br>
+Graduando em Sistemas de Informação 4/8,
 
-Email: rodrigoa0987@gmail.com <br>
-Portfólio: <a href="https://skrodrigo.vercel.app">skrodrigo.vercel.app</a><br> 
-Linkedin: <a href="https://www.linkedin.com/in/skrodrigo">skrodrigo</a><br>        
+Expertisse em Next.js, Figma, Typescript, Tailwind, Node.js, Git, Postgres, Docker, Biome,
+
+Além da tecnologia, entrego meus projetos mantendo fieldade aos requisitos, sempre buscando uma boa experiência para o usuário.        
 
 [![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,nodejs,ts,prisma)](https://skillicons.dev)
