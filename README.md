@@ -9,6 +9,6 @@ Desenvolvendo esse SaaS: https://dashboard.sintesy.me
 
 • Cloud: na AWS: Lambda, EC2, S3, API Gateway, CloudWatch. 
 
-• Estudos: C# Java e Golang , Arquitetura e Infraestrutura de Software , AI, Certificações Cloud e outros idiomas.
+• Estudos: C# Java e Golang , Arquitetura e Infraestrutura de Software , AI, Certificações Cloud e Inglês.
 
 [![My Skills](https://skillicons.dev/icons?i=next,react,nodejs,python,ts,prisma,aws)](https://skillicons.dev)
