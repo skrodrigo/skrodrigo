@@ -2,7 +2,7 @@
 
 Desenvolvedor de Software Junior +1 ano. Graduando em Sistemas de Informação 5/8
 
-Desenvolvendo esse SaaS: https://sintesy.me
+Desenvolvendo esse SaaS: https://dashboard.sintesy.me
 
 
 • Linguagens: Typescript e Python. 
