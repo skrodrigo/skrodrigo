@@ -1,4 +1,4 @@
-👋 Olá, sou Rodrigo Carvalho,
+👋 Olá, sou Rodrigo Carvalho
 
 Desenvolvedor de Software Junior +1 ano. Graduando em Sistemas de Informação 5/8
 
