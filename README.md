@@ -12,4 +12,4 @@ Desenvolvendo esse SaaS: https://dashboard.sintesy.me
 
 • Estudos: C#, Kotlin e Golang , Arquitetura e Infraestrutura de Software , AI, Certificações Cloud e Inglês
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,nodejs,python,ts,prisma,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,nodejs,python,ts,go,prisma,aws)](https://skillicons.dev)
