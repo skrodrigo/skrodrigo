@@ -8,7 +8,7 @@ Desenvolvendo esse SaaS: https://dashboard.sintesy.me
 
 • Linguagens: Typescript e Python
 
-• Cloud: na AWS: Lambda, EC2, S3, API Gateway, CloudWatch
+• Cloud na AWS: Lambda, EC2, S3, API Gateway, CloudWatch
 
 • Estudos: C#, Kotlin e Golang , Arquitetura e Infraestrutura de Software , AI, Certificações Cloud e Inglês
 
