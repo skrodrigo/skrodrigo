@@ -1,15 +1,21 @@
 👋 Olá, sou Rodrigo Carvalho
 
-Desenvolvedor de Software Junior +1 ano
+Desenvolvedor de Software Júnior com quase 1 ano de experiência. Atualmente estou cursando Sistemas de Informação 5/8 e venho me especializando em desenvolvimento de software, cloud computing e inteligência artificial.
 
-Graduando em Sistemas de Informação 5/8
+Principais competências:
 
-Desenvolvendo esse SaaS: https://dashboard.sintesy.me
+- Linguagens: TypeScript, Python, Go, Java
 
-• Linguagens: Typescript e Python
+- Cloud: AWS Lambda, EC2, S3, API Gateway, CloudWatch
 
-• Cloud na AWS: Lambda, EC2, S3, API Gateway, CloudWatch
+- Frameworks/Runtimes: Next.js, React.js, Node.js, Docker
 
-• Estudos: C#, Kotlin e Golang , Arquitetura e Infraestrutura de Software , AI, Certificações Cloud e Inglês
+- Bibliotecas: Langchain (IA/LLM)
+
+Áreas de estudo:
+
+Arquitetura e Infraestrutura de Software, Inteligência Artificial (AI), Padrões de Projetos, Certificações em Cloud Computing e Inglês.
+
+Sou entusiasta de tecnologia e gosto especialmente de falar sobre SaaS (Software as a Service).
 
 [![My Skills](https://skillicons.dev/icons?i=next,react,nodejs,python,ts,go,prisma,aws)](https://skillicons.dev)
